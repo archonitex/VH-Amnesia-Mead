@@ -1,0 +1,15 @@
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/bin/Debug/netstandard2.1/AmnesiaMead.dll.config
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/bin/Debug/netstandard2.1/AmnesiaMead.deps.json
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/bin/Debug/netstandard2.1/AmnesiaMead.dll
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/bin/Debug/netstandard2.1/AmnesiaMead.pdb
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.csproj.AssemblyReference.cache
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.csproj.SuggestedBindingRedirects.cache
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.dll.config
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/PluginInfo.cs
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.GeneratedMSBuildEditorConfig.editorconfig
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.AssemblyInfoInputs.cache
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.AssemblyInfo.cs
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.csproj.CoreCompileInputs.cache
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.sourcelink.json
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.dll
+/home/francis/Development/Valheim-Mods/Amnesia Mead/AmnesiaMead/obj/Debug/netstandard2.1/AmnesiaMead.pdb
