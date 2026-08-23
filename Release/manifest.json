@@ -1,7 +1,7 @@
 {
   "name": "AmnesiaMead",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/archonitex/VH-AmnesiaMead",
+  "website_url": "https://github.com/archonitex/VH-Amnesia-Mead",
   "description": "A Valheim mod that resets the Cheats stat, command history, and item stats to 0.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2330"
