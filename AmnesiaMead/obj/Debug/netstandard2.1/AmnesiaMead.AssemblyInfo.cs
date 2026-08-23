@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmnesiaMead")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.7.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.7+a318cdfcdb37f154520665a2cc964bbdaa1dabb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.7+f3f45835e22d870edaad017bfecea5b71ab51b38")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValheimMod-AmnesiaMead")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmnesiaMead")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.7.0")]
