@@ -1,5 +1,7 @@
 # Amnesia Mead
 
+# DeepNorth Patch - This is no longer compatible as of DeepNorth patch.
+
 **Amnesia Mead** is a lightweight BepInEx utility mod for *Valheim* that resets character cheat counters & flags.
 
 Odin is watching... but after a mug of Amnesia Mead, he forgets everything.
